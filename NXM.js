@@ -4,6 +4,7 @@ function changeHeader() {
 }
 
 var RestartGame = function() {
+    //test
 };
 
 
